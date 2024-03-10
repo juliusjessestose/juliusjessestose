@@ -8,9 +8,7 @@ src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425ad
 
 - 🔭 I’m currently working on **Danao Technological College**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Laravel Framework**
+- 💬 Ask me about *PHP, SQL, HTML, CSS, JAVA, LIVEWIRE LARAVEL*
 
 - 📫 How to reach me **estosejuliusjess@gmail.com**
 
