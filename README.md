@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Danao Technological College**
 
-- 💬 Ask me about **PHP, SQL, HTML, CSS, JAVA, LIVEWIRE LARAVEL**
+- 💬 Ask me about **SQL, HTML, CSS, JAVA,PHP, LARAVEL LIVEWIRE**
 
 - 📫 How to reach me **estosejuliusjess@gmail.com**
 
