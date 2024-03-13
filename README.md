@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julius Jess Estose</h1>
+<h1 align="center">Hi, I'm Julius Jess Estose</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julyos2c&label=Profile%20views&color=0e75b6&style=flat" alt="julyos2c" /> </p>
 
